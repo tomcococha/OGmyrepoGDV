@@ -10,7 +10,7 @@ public class Main {
 		int opc;
 		
 		do {
-			System.out.println("1.Alta\n2.Fichar\n.3.Pagar\n4.Pagar todos\n5.Infor");
+			System.out.println("1.Alta\n2.Fichar\n.3.Pagar\n4.Pagar todos\n5.Infor..");
 			opc=sc.nextInt();
 			switch(opc){
 			case 1:
